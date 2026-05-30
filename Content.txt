@@ -53,6 +53,19 @@ Applications:
 | Human Intervention | High        | Moderate     | Low          |
 | Complexity         | Moderate    | High         | Very High    |
 
+## Diagram
+┌───────────────────────────────┐
+│ Artificial Intelligence (AI)  │
+│                               │
+│ ┌───────────────────────────┐ │
+│ │ Machine Learning (ML)     │ │
+│ │                           │ │
+│ │ ┌───────────────────────┐ │ │
+│ │ │ Deep Learning (DL)    │ │ │
+│ │ └───────────────────────┘ │ │
+│ └───────────────────────────┘ │
+└───────────────────────────────┘
+
 ## Conclusion
 
 AI is the overarching field, Machine Learning enables systems to learn from data, and Deep Learning powers many of today's advanced AI applications. Understanding these distinctions is essential for anyone entering the world of artificial intelligence.

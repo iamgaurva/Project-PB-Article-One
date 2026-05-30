@@ -1,0 +1,58 @@
+AI vs Machine Learning vs Deep Learning: Understanding the Differences
+
+Artificial Intelligence (AI) has become one of the most transformative technologies of the modern era. However, terms such as AI, Machine Learning (ML), and Deep Learning (DL) are often used interchangeably despite representing different concepts.
+
+## What is Artificial Intelligence?
+
+Artificial Intelligence refers to the broader field of creating systems capable of performing tasks that typically require human intelligence. These tasks include reasoning, decision-making, language understanding, and problem-solving.
+
+Examples:
+
+* Virtual assistants
+* Recommendation systems
+* Autonomous vehicles
+
+## What is Machine Learning?
+
+Machine Learning is a subset of AI that enables computers to learn patterns from data without being explicitly programmed.
+
+Types of Machine Learning:
+
+* Supervised Learning
+* Unsupervised Learning
+* Reinforcement Learning
+
+Applications:
+
+* Spam detection
+* Fraud detection
+* Stock price prediction
+
+## What is Deep Learning?
+
+Deep Learning is a specialized branch of Machine Learning that uses neural networks with multiple layers to process large amounts of data.
+
+Popular Architectures:
+
+* CNNs for image recognition
+* RNNs and LSTMs for sequence data
+* Transformers for language models
+
+Applications:
+
+* ChatGPT
+* Image generation
+* Speech recognition
+
+## Key Differences
+
+| Feature            | AI          | ML           | DL           |
+| ------------------ | ----------- | ------------ | ------------ |
+| Scope              | Broadest    | Subset of AI | Subset of ML |
+| Data Requirement   | Low to High | Moderate     | Very High    |
+| Human Intervention | High        | Moderate     | Low          |
+| Complexity         | Moderate    | High         | Very High    |
+
+## Conclusion
+
+AI is the overarching field, Machine Learning enables systems to learn from data, and Deep Learning powers many of today's advanced AI applications. Understanding these distinctions is essential for anyone entering the world of artificial intelligence.
